@@ -1,0 +1,14 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
+"Segoe UI (TrueType)"="-the ttf file of the font-"
+"Segoe UI Bold (TrueType)"="-the ttf file of the font-"
+"Segoe UI Bold Italic (TrueType)"="-the ttf file of the font-"
+"Segoe UI Italic (TrueType)"="-the ttf file of the font-"
+"Segoe UI Light (TrueType)"="-the ttf file of the font-"
+"Segoe UI Semibold (TrueType)"="-the ttf file of the font-"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes]
+"Segoe UI"="-the name of the font-"
+"Arial"="-the name of the font-"
+"Times New Roman"="-the name of the font-"
